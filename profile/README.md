@@ -34,4 +34,4 @@ docker compose up
 
 There is a file put together with information about the decisions taken during this accessment, the technical choices made and what I would do with more time and/or previous experience with the stack and tools.
 
-You may find the [file here](../technical-report.pdf), please take some time to read it throughly.
+You may find the [file here](../documents/technical-report.pdf), please take some time to read it throughly.
