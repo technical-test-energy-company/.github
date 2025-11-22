@@ -18,8 +18,8 @@ docker create asgard
 
 Then fill the envfiles on each of the projects, instructions on how to do so can be found in their README files:
 
-[THOR](https://github.com/technical-test-energy-company/thor)
-[LOKI](https://github.com/technical-test-energy-company/loki)
+[Thor's repository (backend - Laravel)](https://github.com/technical-test-energy-company/thor)<br />
+[Loki's repository (frontend - React)](https://github.com/technical-test-energy-company/loki)
 
 And at last run the docker command on the root of both the projects:
 
